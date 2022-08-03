@@ -1,0 +1,8 @@
+.page{
+    cursor: pointer;
+    color:#fff !important;
+}
+
+.page:hover{
+    color:red !important;
+}
